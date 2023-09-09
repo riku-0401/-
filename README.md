@@ -36,9 +36,5 @@
     </ul>
     <p>通常これら3つのコマンドは日付が変わって数分後に自動で実行されます</p>
 
-![2023-09-10_01h53_33](https://github.com/riku-0401/kadaibot/assets/131428274/154e4bb6-22b9-4e7f-9309-5e4cc2ede4b3)
-![2023-09-10_01h53_40](https://github.com/riku-0401/kadaibot/assets/131428274/ac15d711-5ae7-4d0b-afdf-bc15c7797363)
-![2023-09-10_01h56_41](https://github.com/riku-0401/kadaibot/assets/131428274/7d571773-4761-4f91-bf20-77c66001e8d7)
-![43565](https://github.com/riku-0401/kadaibot/assets/131428274/11d7d44d-0171-46e0-9ded-db0ebf5b0790)
 </body>
 </html>
