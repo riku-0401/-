@@ -1,9 +1,6 @@
 <!DOCTYPE html>
 <html>
 
-<head>
-    <title>課題管理 Discord Bot</title>
-</head>
 
 <body>
     <h1>課題管理 Discord Bot</h1>
