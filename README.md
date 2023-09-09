@@ -1,4 +1,4 @@
-<big>課題管理discordbot</p></big>
+課題管理discordbot</p>
 tukaikata.txtはチャンネル名や用途に合わせてカスタムしてください</p></p>
 以下のようにmain.py内の上にあるチャンネルid、サーバーid、トークンを代入してください</p>
 #############################################</p>
@@ -15,10 +15,10 @@ guildid=0 #サーバーid</p>
 </p>
 TOKEN="YOUR TOKEN" #トークン設定</p>
 #############################################</p></p>
-<big>コマンド一覧</big></p>
+コマンド一覧</p>
 !o 課題名 期日 (cmdchidチャンネルのみ) 課題の定義 例.!o C言語 0910</p>
 !sss (kanrishachidチャンネルのみ) 使い方をtukaikata.txtから読み取り、tukaikatachidに送信 </p>
-!reset (kanrishachidのみ) 課題ファイルの削除</p>
+!reset (kanrishachidのみ) 課題ファイルの削除</p></p>
 <big>以下のコマンドは日付変更時に自動で実行されるので通常実行する必要はないです</big></p>
 !ff (kanrishachidチャンネルのみ) ３日前が期日の課題をデータから削除</p>
 !fc (kanrishachidチャンネルのみ) 明日が期日の課題を表示、取り組んでいる人をメンション</p>
